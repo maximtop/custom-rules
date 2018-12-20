@@ -1,1 +1,2 @@
 #%#console.log('test trusted rules');
+||example.org^$replace=/example/trusted/gi
