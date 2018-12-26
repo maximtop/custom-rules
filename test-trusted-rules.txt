@@ -1,3 +1,4 @@
+!Title: Trusted filter
 #%#console.log('test trusted rules');
 ||example.org^$replace=/example/trusted/gi
 example.org#$#body { background-color: #333!important; }

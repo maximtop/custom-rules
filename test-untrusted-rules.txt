@@ -1,3 +1,4 @@
+!Title: Untrusted filter
 #%#console.log('test untrusted rules');
 ||example.org^$replace=/example/untrusted/gi
 example.org#$#body { background-color: #333!important; }
