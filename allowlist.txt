@@ -1,1 +1,1 @@
-@@example.org^$document
+@@||example.org^$document
