@@ -1,0 +1,2 @@
+! Title: Remote script rules for firefox
+#%#console.log('test remote script rules');
