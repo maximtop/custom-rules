@@ -1,2 +1,3 @@
 ! Title: Remote script rules for firefox
-#%#console.log('test remote script rules');
+example.org#%#console.log('test remote script rules');
+example.org#%#//scriptlet('log', 'arg1', 'arg2')
